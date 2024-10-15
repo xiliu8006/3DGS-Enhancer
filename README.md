@@ -2,7 +2,7 @@
 
 [**Paper**]() | [**Project Page**](https://xiliu8006.github.io/3DGS-Enhancer-project/)
 
-[Xi Liu](https://xiliu8006.github.io/), [Chaoyi Zhou](), [Siyu Huang](https://siyuhuang.github.io/#)
+[Xi Liu](https://xiliu8006.github.io/), [Chaoyi Zhou](https://chaoyizh.github.io/chaoyizh-home-page/), [Siyu Huang](https://siyuhuang.github.io/#)
 
 <p align="center"> Dataset Code and training Code coming soon...</p>
 
@@ -11,6 +11,8 @@ Abstract: Novel-view synthesis aims to generate novel views of a scene from mult
 
 ## method
 ![Alt text](./assets/pipeline.png)
+
+<p align="center"> TL;DR: We propose a method that exploits view-consistent 2D generative priors, i.e., a video diffusion model, to enhance 3D Gaussian splatting rendering quality.</p>
 
 <!-- <video controls>
   <source src="./assets/3DGS-Enhancer.mp4" type="video/mp4">
