@@ -1,4 +1,4 @@
-# 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors (NIPS 2024 <span style="color: red;">Spotlight</span>)
+# 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors (NIPS 2024 $\textcolor{red}{Spotlight}$)
 
 [**Paper**]() | [**Project Page**](https://xiliu8006.github.io/3DGS-Enhancer-project/)
 
@@ -12,7 +12,7 @@ Abstract: Novel-view synthesis aims to generate novel views of a scene from mult
 ## method
 ![Alt text](./assets/pipeline.png)
 
-<video controls>
+<!-- <video controls>
   <source src="./assets/3DGS-Enhancer.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
