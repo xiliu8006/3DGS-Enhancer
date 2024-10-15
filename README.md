@@ -2,7 +2,7 @@
 
 [**Paper**]() | [**Project Page**](https://xiliu8006.github.io/3DGS-Enhancer-project/)
 
-[Xi Liu](https://xiliu8006.github.io/). [Chaoyi Zhou](), [Siyu Huang](https://siyuhuang.github.io/#)
+[Xi Liu](https://xiliu8006.github.io/), [Chaoyi Zhou](), [Siyu Huang](https://siyuhuang.github.io/#)
 
 <p align="center"> Dataset Code and training Code coming soon...</p>
 
