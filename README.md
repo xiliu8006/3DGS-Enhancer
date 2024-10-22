@@ -1,6 +1,6 @@
 # 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors (NIPS 2024 $\textcolor{red}{Spotlight}$)
 
-[**Paper**]() | [**Project Page**](https://xiliu8006.github.io/3DGS-Enhancer-project/)
+[**Paper**](https://arxiv.org/abs/2410.16266) | [**Project Page**](https://xiliu8006.github.io/3DGS-Enhancer-project/)
 
 [Xi Liu](https://xiliu8006.github.io/), [Chaoyi Zhou](https://chaoyizh.github.io/chaoyizh-home-page/), [Siyu Huang](https://siyuhuang.github.io/#)
 
