@@ -18,3 +18,12 @@ Abstract: Novel-view synthesis aims to generate novel views of a scene from mult
   <source src="./assets/3DGS-Enhancer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> -->
+
+## code release !!!
+Please refer to the submodules to see how to train our code step by step.
+1. 3dgs_dataset_generator: For paired dataset generation. Done
+2. SVDFor3D: Train SVD for 3DGS-Enhancer with paired dataset. Done
+
+### Not available yet
+1. STD: Spatial-temporal decoder
+2. Confidence-aware 3DGS 
