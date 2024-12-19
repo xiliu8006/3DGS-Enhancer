@@ -1,0 +1,3 @@
+[submodule "submodules/3dgs_dataset_generator"]
+	path = submodules/3dgs_dataset_generator
+	url = https://github.com/xiliu8006/3dgs_dataset_generator
