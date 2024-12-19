@@ -1,3 +1,6 @@
 [submodule "submodules/3dgs_dataset_generator"]
 	path = submodules/3dgs_dataset_generator
 	url = https://github.com/xiliu8006/3dgs_dataset_generator
+[submodule "submodules/SVDFor3D"]
+	path = submodules/SVDFor3D
+	url = git@github.com:xiliu8006/SVDFor3D.git
