@@ -27,9 +27,16 @@ Abstract: Novel-view synthesis aims to generate novel views of a scene from mult
 2. Confidence-aware 3DGS
 
 ## Reference
+'''
 @inproceedings{liu20243dgs,
+
   title={3dgs-enhancer: Enhancing unbounded 3d gaussian splatting with view-consistent 2d diffusion priors},
+  
   author={Liu, Xi and Zhou, Chaoyi and Huang, Siyu},
+  
   booktitle={Advances in Neural Information Processing Systems},
+  
   year={2024}
+  
 }
+'''
