@@ -1,4 +1,5 @@
-# 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors (NIPS 2024 $\textcolor{red}{Spotlight}$)
+# 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors 
+## (NeurIPS 2024 $\textcolor{red}{Spotlight}$)
 
 [**Paper**](https://arxiv.org/abs/2410.16266) | [**Project Page**](https://xiliu8006.github.io/3DGS-Enhancer-project/)
 
