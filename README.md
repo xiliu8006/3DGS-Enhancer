@@ -24,8 +24,9 @@ Abstract: Novel-view synthesis aims to generate novel views of a scene from mult
 **2. SVDFor3D:** Train SVD for 3DGS-Enhancer with paired dataset. 
 
 ## Not available yet
-1. STD: Spatial-temporal decoder
-2. Confidence-aware 3DGS
+*1. STD: Spatial-temporal decoder*
+
+*2. Confidence-aware 3DGS*
 
 ## Reference
 If you find our work helpful, please consider citing:
