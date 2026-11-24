@@ -12,14 +12,6 @@ Abstract: Novel-view synthesis aims to generate novel views of a scene from mult
 
 <p align="center"> TL;DR: We propose a method that exploits view-consistent 2D generative priors, i.e., a video diffusion model, to enhance 3D Gaussian splatting rendering quality.</p>
 
-## Code Released
-**1. 3dgs_dataset_generator:** For paired dataset generation.
-
-**2. SVDFor3D:** Train SVD for 3DGS-Enhancer with paired dataset, and run the full 3DGS-Enhancer (SVD + spatial-temporal decoder).
-
-## Not available yet
-*1. Confidence-aware 3DGS*
-
 ## Installation
 
 ```bash
